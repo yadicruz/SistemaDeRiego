@@ -1,10 +1,11 @@
 <?php
+     //nombre del servidor
      $servername = "localhost";
-     // Your Database name
+     // nombre de la bd
      $dbname = "esp_data";
-     // Your Database user
+     // usuario del servidor
      $username = "root";
-     // Your Database user password
+     //contraseña del servidor
      $password = "";
 
 ?>
